@@ -1,0 +1,22 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+Belt (7): 
+avg_roll_belt   : mean of roll
+var_roll_belt   : var of roll
+var_total_accel_belt: variance of acc.vetor
+max, range of acc.vector??
+var of gyro and magneto. 
+Arm (3): 
+var_accel_arm   : var of acc.vector 
+min and max of magneto. 
+Glove (3): 
+sum of pitch and 
+min and max of gyro. 
+Dumbbell (4): 
+max of acc.vector, 
+var of gyro and 
+min and max of magneto.
